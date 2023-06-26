@@ -1,4 +1,4 @@
-![MasterHead]https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min.png)
+![MasterHead](https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min.png)
 <h1 align="center">I'm freelancer Programming Secant Caitlyn</h1>
 <h3 align="center">I am a Web Designer and Developer, WordPress Expert and Pro Gitbook-Whitepaper Designer.</h3>
 
